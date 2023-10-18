@@ -32,6 +32,10 @@ body {
   height: 100%;
 }
 
+.card:hover {
+  cursor: pointer;
+}
+
 .image {
   aspect-ratio: 1;
   object-fit: cover;
